@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yassbinss/ONLYHUB/refs/heads/main/ONLYHUB.lua"))()
